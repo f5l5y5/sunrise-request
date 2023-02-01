@@ -126,4 +126,4 @@
     NI-HAO JUST FOR FUN
     -- ,NI-HAO JUST FOR FUN
     NI-HAO ，JUST FOR FUN
-    ni-hao just for fun
+    ni-hao just for FUN
