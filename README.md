@@ -60,7 +60,6 @@
         :bn/:bp 切换下个文件或上个文件
         :gd 跳转到定义的文件
         C-o 返回上个文件
-
 3.  更好、更强、更快
 
             1.  更好
@@ -121,9 +120,6 @@
            				F 和 T → 和 f 和 t 一样，只不过是相反方向。
         						dt- 删除直到遇到-之前的所有内容
 
-    ni-hao
-    ni
-    NI-HAO JUST FOR FUN
-    -- ,NI-HAO JUST FOR FUN
-    NI-HAO ，JUST FOR FUN
+    -n,-ni-hao ni NI-HAO JUST FOR FUN -- ,NI-HAO JUST FOR FUN NI-HAO ，JUST FOR FUN
     ni-hao just for FUN
+   (map (+) ("foo"))
