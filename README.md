@@ -61,8 +61,7 @@
         :x 保存退出 ZZ/:wq
         :bn/:bp 切换下个文件或上个文件
         :gd 跳转到定义的文件
-        C-o 返回上个文件 5. vscode 中文件的增删改查
-        创建文件:
+        C-o 返回上个文件
 
 3.  更好、更强、更快
 
@@ -86,7 +85,6 @@
 
         												ge 上个单词的结尾
 
-    just for fun ni p hao hao hao
 
                     				5. %(/{/[ 光标放在括号上，会移动到匹配括号上  ]})
                     				6. */# :匹配光标当前的所在单词上移/下移
@@ -114,21 +112,18 @@
 
 4.  Vim 超能力
 
-             当前行上移动光标： 0 ^ $ f F t T , ;
+              当前行上移动光标： 0 ^ $ f F t T , ;
 
-           				0 → 到行头
-           				^ → 到本行的第一个非blank字符
-           				$ → 到行尾
-           				g_ → 到本行最后一个不是blank字符的位置。
-           				fa → 到下一个为a的字符处，你也可以fs到下一个为s的字符。
-           				t, → 到逗号前的第一个字符。逗号可以变成其它字符。
-           				3fa → 在当前行查找第三个出现的a。
-           				F 和 T → 和 f 和 t 一样，只不过是相反方向。
-        						dt- 删除直到遇到-之前的所有内容
+            				0 → 到行头
+            				^ → 到本行的第一个非blank字符
+            				$ → 到行尾
+            				g_ → 到本行最后一个不是blank字符的位置。
+            				fa → 到下一个为a的字符处，你也可以fs到下一个为s的字符。
+            				t, → 到逗号前的第一个字符。逗号可以变成其它字符。
+            				3fa → 在当前行查找第三个出现的a。
+            				F 和 T → 和 f 和 t 一样，只不过是相反方向。
+         						dt- 删除直到遇到-之前的所有内容
 
-    ni-hao
-    ni
-    NI-HAO JUST FOR FUN
-    -- ,NI-HAO JUST FOR FUN
-    NI-HAO ，JUST FOR FUN
+    -n,-ni-hao ni NI-HAO JUST FOR FUN -- ,NI-HAO JUST FOR FUN NI-HAO ，JUST FOR FUN
     ni-hao just for FUN
+    (map (+) ("foo"))
